@@ -532,8 +532,8 @@
 		)
 	)
 	(symbol "tagconnect-ch32v003"
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at 8.382 11.684 0)
@@ -802,8 +802,8 @@
 		)
 	)
 	(symbol "tagconnect-esp32"
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at 8.382 11.684 0)
